@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm working on React Js and Node js
+I'm a passionate Full-Stack Developer currently working with React.js and Node.js to build interactive, high-performance applications. With a strong command over both the MERN stack (MongoDB, Express, React, Node) and MEAN stack (MongoDB, Express, Angular, Node), I enjoy crafting scalable, efficient, and user-friendly solutions. I have experience working with AWS services to develop serverless architectures and integrate PostgreSQL for data-intensive applications. Always excited to learn and implement new technologies, I'm here to collaborate, share knowledge, and create impactful projects that push the boundaries of web development.
 
 
 ## 🌐 Socials:
